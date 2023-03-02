@@ -13,7 +13,7 @@ int tim_min(int *a,int n)
 }
 void print_value(int *a,int n)
 {
-   //ma lenh ham in gia tri
+   //ma lenh ham in 
 }
 int main()
 {
